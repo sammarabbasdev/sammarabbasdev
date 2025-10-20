@@ -7,7 +7,7 @@ My name is Sammar, Software Engineer from [Canada](https://unsplash.com/s/photos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammar-abbas-dev/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammarabbasdev)
 [![Github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammar.a.dev@gmail.com)
-[![Github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@mujeeb-kalwar)](tg://resolve?domain=@sammarabbas_dev)
+[![Github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@@sammarabbas_dev)](tg://resolve?domain=@sammarabbas_dev)
 
 ## 🔧 Technologies & Tools
 
