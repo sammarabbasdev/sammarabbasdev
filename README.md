@@ -1,13 +1,13 @@
 # Hey 👋
 
-My name is Mujeeb, Software Engineer from [Canada](https://unsplash.com/s/photos/canada), living in [Vancouver](https://unsplash.com/s/photos/vancouver)
+My name is Sammar, Software Engineer from [Canada](https://unsplash.com/s/photos/canada), living in [Vancouver](https://unsplash.com/s/photos/vancouver)
 
-[![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mujeeb.move.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeebkpro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujeeb-kalwar)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujeeb-kalwar)
-[![Github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeeb-kalwar.mk@gmail.com)
-[![Github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@mujeeb-kalwar)](tg://resolve?domain=@mujeeb-kalwar)
+[![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sammar.a.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://x.com/sammar_a_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammar-abbas-dev/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammarabbasdev)
+[![Github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammar.a.dev@gmail.com)
+[![Github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@mujeeb-kalwar)](tg://resolve?domain=@sammarabbas_dev)
 
 ## 🔧 Technologies & Tools
 
@@ -45,9 +45,9 @@ My name is Mujeeb, Software Engineer from [Canada](https://unsplash.com/s/photos
 <hr />
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb-kalwar&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub stats" style="max-width: 100%; width:51%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujeeb-kalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub streaks" style="max-width: 100%; width:48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammarabbasdev&show_icons=true&count_private=true&hide=stars" alt="Sammar's GitHub stats" style="max-width: 100%; width:51%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammarabbasdev&theme=github_dark&show_icons=true&count_private=true&hide=stars" alt="Sammar's GitHub streaks" style="max-width: 100%; width:48%">
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujeeb-kalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars)](https://github.com/mujeeb-kalwar) 
-[![](https://streak-stats.demolab.com/?user=mujeeb-kalwar&theme=dark&hide_border=true)](https://github.com/mujeeb-kalwar)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujeeb-kalwar&theme=github_dark&exclude=github_dark)](https://github.com/mujeeb-kalwar)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammarabbasdev&theme=github_dark&show_icons=true&count_private=true&hide=stars)](https://github.com/sammarabbasdev) 
+[![](https://streak-stats.demolab.com/?user=sammarabbasdev&theme=dark&hide_border=true)](https://github.com/sammarabbasdev)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammarabbasdev&theme=github_dark&exclude=github_dark)](https://github.com/sammarabbasdev)
