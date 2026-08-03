@@ -21,6 +21,4 @@ My name is Sammar, Software Engineer from [Canada](https://unsplash.com/s/photos
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sammarabbasdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=sammarabbasdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
